@@ -1,5 +1,5 @@
 import random
-from hangman_wordfile import words                 #importing other file for words
+from Hangman_wordfile import words                 #importing other file for words
 import string                           #for importing alphabet
 
 def get_valid_word(words):              #define function
